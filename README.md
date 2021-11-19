@@ -9,5 +9,5 @@
 #Adding extra features.
 
 #About the tools:
-#Pandas for data manipulation.
+#Pandas for data manipulation. 
 #Seaborn and matplotlib for plotting.
